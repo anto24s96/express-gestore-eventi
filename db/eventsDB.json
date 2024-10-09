@@ -1,0 +1,44 @@
+[
+    {
+        "id": 1,
+        "title": "Concerto di Rock",
+        "description": "Un emozionante concerto di rock con band locali.",
+        "date": "2024-09-30",
+        "maxSeats": 200
+    },
+    {
+        "id": 2,
+        "title": "Festa di Halloween",
+        "description": "Una festa a tema Halloween con costume e musica.",
+        "date": "2024-10-31",
+        "maxSeats": 150
+    },
+    {
+        "id": 3,
+        "title": "Workshop di Fotografia",
+        "description": "Un workshop per imparare le basi della fotografia.",
+        "date": "2024-11-10",
+        "maxSeats": 30
+    },
+    {
+        "id": 4,
+        "title": "Corso di Cucina Italiana",
+        "description": "Impara a cucinare piatti tipici della tradizione italiana.",
+        "date": "2024-11-25",
+        "maxSeats": 25
+    },
+    {
+        "id": 5,
+        "title": "Maratona di Primavera",
+        "description": "Una maratona aperta a tutti gli appassionati di corsa.",
+        "date": "2025-03-15",
+        "maxSeats": 500
+    },
+    {
+        "id": 6,
+        "title": "Inter-Arsenal",
+        "description": "Champions League",
+        "date": "2024-11-20",
+        "maxSeats": 75817
+    }
+]

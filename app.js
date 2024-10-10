@@ -9,13 +9,13 @@ const routeNotFound = require("./middlewares/routeNotFound.js");
 
 app.use(express.json());
 
-//rotte
+//Rotte
 app.get("/", (req, res) =>
     res.send("<h1>Benvenuto nel mio gestore eventi</h1>")
 );
 app.use("/events", eventsRouter);
 
-//middlewares per errori
+//Middlewares per errori
 app.use(errorFormatter);
 app.use(routeNotFound);
 
